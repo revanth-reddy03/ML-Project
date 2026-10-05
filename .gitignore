@@ -1,0 +1,23 @@
+﻿# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints/
+
+# Editor & IDE settings
+.vscode/
+.idea/
+
+# Large Model Binaries (>100MB exceeds GitHub limit)
+models/random_forest.pkl
+models/hybrid_model.pkl
+
+# System files
+.DS_Store
+Thumbs.db

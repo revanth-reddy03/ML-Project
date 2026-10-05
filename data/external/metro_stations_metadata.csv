@@ -1,0 +1,31 @@
+Station_ID,Station_Name,Line_ID,Zone,Platform_Capacity,Interchange_Flag,Surrounding_Land_Use,Latitude,Longitude
+1,Central Grand Terminal,1,Zone 1 - Core Downtown,5000,1,Commercial & Intermodal Hub,12.9716,77.5946
+2,Financial District,1,Zone 1 - Core Downtown,4200,0,Corporate & Banking,12.9754,77.5982
+3,City Hall & High Court,1,Zone 1 - Core Downtown,3800,0,Civic & Government,12.979,77.5912
+4,Market Square,1,Zone 1 - Core Downtown,4000,0,Retail & Mixed Use,12.965,77.585
+5,North Interchange,1,Zone 1 - Core Downtown,4800,1,Commercial Transit Hub,12.986,77.592
+6,Tech Park South,1,Zone 2 - Tech Corridor,4500,0,IT & Business Park,12.9352,77.6245
+7,Innovation Valley,2,Zone 2 - Tech Corridor,4600,0,R&D & Tech Hub,12.928,77.632
+8,National Stadium,2,Zone 1 - Core Downtown,6000,1,Sports Complex & Events,12.961,77.601
+9,University Main Campus,2,Zone 2 - Academic Hub,3500,0,Educational Institutions,12.942,77.568
+10,Medical City & Hospital,2,Zone 2 - Academic Hub,3400,0,Healthcare & Research,12.951,77.575
+11,East Junction,2,Zone 2 - Transit Node,4400,1,Interchange & Mixed Use,12.968,77.64
+12,Harbor Bay Terminal,2,Zone 3 - Coastal/Port,3000,0,Maritime & Tourism,12.991,77.658
+13,Botanical Gardens,3,Zone 1 - Cultural District,3200,0,Parklands & Heritage,12.95,77.585
+14,South End Boulevard,3,Zone 3 - Suburban District,2800,0,Residential High-Rise,12.915,77.58
+15,Industrial Zone West,3,Zone 3 - Industrial Corridor,3100,0,Manufacturing & Logistics,12.962,77.525
+16,West Gateway,3,Zone 2 - Western Suburbs,3900,1,Suburban Transit Hub,12.98,77.535
+17,Arts & Exhibition Center,3,Zone 1 - Cultural District,4500,0,Conventions & Exhibitions,12.973,77.578
+18,Airport Link Station,4,Zone 3 - Airport Corridor,4800,1,Airport Rail Transfer,13.05,77.61
+19,Aero City Complex,4,Zone 3 - Airport Corridor,3500,0,Aviation Logistics & Hotels,13.085,77.64
+20,International Airport Terminal,4,Zone 3 - Airport Terminal,5500,0,International Airport Terminals,13.1986,77.7066
+21,Cyber Gateway,4,Zone 2 - Tech Corridor,4700,0,Software Parks & Tech Hubs,12.995,77.675
+22,Silicon Enclave,4,Zone 2 - Tech Corridor,4400,0,IT Enterprise Campuses,13.01,77.69
+23,Heritage Palace,5,Zone 1 - Old City,3300,0,Tourism & Heritage Bazaars,12.98,77.565
+24,Textile Quarter,5,Zone 1 - Old City,3100,0,Wholesale Trade & Markets,12.97,77.555
+25,Hillview Heights,5,Zone 3 - Northern Hills,2600,0,Quiet Residential & Parks,13.03,77.545
+26,Greenwood Woods,5,Zone 3 - Northern Suburbs,2500,0,Suburban Residential,13.06,77.55
+27,Railway Station West Link,5,Zone 1 - Core Downtown,4600,1,Interstate Rail Intermodal Hub,12.978,77.57
+28,Outer Ring Road East,4,Zone 2 - Arterial Highway,4100,0,High-Density Commercial,12.945,77.695
+29,Valley Stream Colony,3,Zone 3 - Southern Valley,2700,0,Low-Density Residential,12.89,77.59
+30,Aerospace SEZ Park,4,Zone 3 - Industrial SEZ,3600,0,Aviation Engineering SEZ,13.15,77.67

@@ -1,0 +1,6 @@
+Line_ID,Line_Name,Color_Code,Total_Length_km,Operating_Stations,Peak_Headway_min,OffPeak_Headway_min,Max_Commercial_Speed_kmph,Train_Capacity_Passengers,Route_Description
+1,Blue Line - Central Corridor,#1f77b4,28.5,6,4.0,10.0,75.0,1500,Connects Core Central Business District with South Tech Corridor
+2,Red Line - Stadium & Academic Link,#d62728,32.0,6,4.5,12.0,80.0,1600,"Transverses Academic District, National Stadium, and Coastal Harbor"
+3,Green Line - West-South Suburban Loop,#2ca02c,26.8,6,5.0,12.5,70.0,1400,Connects West Industrial Logistics Corridor with South Valley Suburbs
+4,Yellow Line - Airport Express & Cyber Corridor,#ff7f0e,42.4,7,5.0,15.0,95.0,1800,High-speed line connecting International Airport with Cyber Tech Parks
+5,Purple Line - Old Heritage & Northern Ring,#9467bd,24.2,5,6.0,14.0,65.0,1300,"Heritage circuit linking Old Town Bazaars, Rail Terminals, and Hillview"

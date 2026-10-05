@@ -1,0 +1,11 @@
+Variable,Range_Low,Range_High,Classification,Operational_Impact
+Rainfall_mm,0.0,0.1,None / Dry,Normal adherence to dispatch schedule; regular dwell times
+Rainfall_mm,0.1,2.5,Light Rain,Minimal effect; slight increase in concourse boarding time
+Rainfall_mm,2.5,7.5,Moderate Rain,Moderate speed restrictions on open viaduct sections (+10s dwell)
+Rainfall_mm,7.5,50.0,Heavy Rain / Monsoon,Track drainage protocols activated; signal delay warnings (+30-60s headway)
+Temperature_C,15.0,22.0,Cool / Mild,Low HVAC cooling energy demand on rolling stock
+Temperature_C,22.0,30.0,Warm / Moderate,Standard carriage ventilation and air conditioning
+Temperature_C,30.0,45.0,Hot / Heatwave,Elevated auxiliary energy draw (HVAC peak); platform cooling active
+Visibility_km,0.0,2.0,Low Visibility / Fog,Cautionary speed limits enforced on overground rail tracks
+Visibility_km,2.0,6.0,Moderate Visibility,Automated signaling operates with standard headway margins
+Visibility_km,6.0,20.0,Clear Visibility,Optimal visual and automated operation at full commercial speeds

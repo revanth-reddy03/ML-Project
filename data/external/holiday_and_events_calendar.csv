@@ -1,0 +1,14 @@
+Date,Day_of_Week,Holiday_Flag,Special_Event_Flag,Event_Name,Impacted_Stations,Expected_Impact
+2025-01-01,2,1,0,New Year's Day,All Core Stations,High mid-day leisure traffic
+2025-01-15,2,1,0,Harvest Festival / Pongal,Intermodal Hubs & Bazaars,Suburban outbound surge
+2025-01-26,6,1,1,Republic Day & Central Parade,"Stations 1, 3, 5, 8",Severe crowd surges near Civic centers
+2025-02-14,4,0,1,International Stadium Cricket Derby,Station 8 (National Stadium),Massive post-match egress surge at 22:00
+2025-03-14,4,1,0,Spring Festival / Holi,All Residential & Central Stations,Morning shutdown; afternoon leisure surge
+2025-04-14,0,1,0,Regional New Year,Heritage & Bazaar Stations,Moderate daytime demand
+2025-05-01,3,1,0,International Workers' Day,Industrial & Tech Stations,Low morning commuter volume
+2025-06-18,2,0,1,Global Tech Summit 2025,"Stations 6, 7, 21, 22",Heavy morning and evening tech commute
+2025-08-15,4,1,1,Independence Day Celebration,"Stations 1, 3, 8",Large morning civic gatherings
+2025-09-05,4,0,1,International Stadium Rock Concert,Station 8 (National Stadium),Night egress crowd peaking at 23:00
+2025-10-02,3,1,0,National Day of Non-Violence,Central Heritage Stations,Off-peak leisure traffic
+2025-10-20,0,1,1,Festival of Lights / Diwali,"Market Square, Terminal Hubs",Massive retail shopping surge preceding evening
+2025-12-25,3,1,0,Christmas Day,Central & Harbor Stations,Evening leisure & shopping congestion
